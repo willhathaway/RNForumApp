@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "HederaApp",
+    "slug": "HederaApp",
+    "version": "1.0.0",
+    "owner": "willhathaway",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "HederaApp. Dec 30 2020. Expo deployment for testing.",
+    "githubUrl": "https://github.com/willhathaway/ForumApp"
+  }
+}
